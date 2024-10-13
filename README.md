@@ -5,7 +5,7 @@ Este repositorio tiene las prácticas del curso de Solidity básico de Educateth
 
 Este es un cambio desde el IDE *Remix*, **en su versión web**
 
-## ste es un commit esde GitHub
+## Este es un commit desde GitHub
 
 Este es un cambio desde el *GitHub*, **en su version web**
 * Esto se puede hacer desde del navegador con GitHub
