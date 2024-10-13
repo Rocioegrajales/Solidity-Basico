@@ -13,3 +13,4 @@ Este es un cambio desde el *GitHub*, **en si version web**
 * Esto se puede hacer en loca desde una terminal
 * Este sigueinte paso se puede hacer desde Visal Studio Code
 * Este es un cambio para validar la sincronizacion con **REMIX**
+* Otro cambio validando desde Remix a GitHub
